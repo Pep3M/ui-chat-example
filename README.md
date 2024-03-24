@@ -22,6 +22,8 @@ This project contains several examples of how to use the `react-ui-chat` library
 
 [Example4](src/examples/Example4.tsx) shows how to integrate `react-ui-chat` with a real-time chat server using the [ChatIo](src/examples/Example4/ChatIo.tsx) component prepaid with socket.io-client.
 
+For this example to work, you need to run the [chat-nodejs-socketio](https://github.com/Pep3M/chat-nodejs-socketio) server.
+
 ## How to run the examples
 
 1. Clone this repository.
